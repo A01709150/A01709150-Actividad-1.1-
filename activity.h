@@ -39,6 +39,6 @@ unsigned int sumaDirecta(unsigned int n) {
 	return sum;
 }
 
-// Complexity: La complejidad de este es O(log) ya que estamos multiplica
+// Complexity: La complejidad de este es O(log) ya que estamos multiplicando.
 
 #endif /* ACTIVITY_H */
